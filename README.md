@@ -66,7 +66,7 @@ edi_tesla89:6c569aabbf7775ef8fc570e228c16b98:password!
 
 ### Conclusion
 
-A through report has been sent to the organization which includes the observation and a breif analyzation of the level of protection offered by implemented controls and minimize the probability of a successful breach. The report can be found [here]() for review. 
+A through report has been sent to the organization which includes the observation and a breif analyzation of the level of protection offered by implemented controls and minimize the probability of a successful breach. The report can be found [here](https://github.com/orv3/Goldman-Sachs-Engineering-Virtual-Program/blob/a378bd58b644f83ee3aaa17ff479c764748742bc/REPORT%20GOLDMANN%20SACHHS%20VIRTUAL%20PROGRAM.docx) for review. 
 
 ### Resources
 
